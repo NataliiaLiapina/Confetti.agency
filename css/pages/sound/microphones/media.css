@@ -1,0 +1,294 @@
+﻿@media screen and (max-width: 1300px) {
+ 
+}
+@media screen and (max-width: 1280px) {
+ 
+}
+@media screen and (max-width: 1200px) {
+    
+ 
+}
+@media screen and (max-width: 1080px) {
+    .row{
+    width:90%;
+}
+
+}
+@media screen and (max-width: 1024px) {
+  .form form{
+     width:85%;
+  }
+  .contacts-block{
+      width:66%;
+       left:17%;
+  }
+   .popup-form {
+        width:75%;
+    }
+}
+@media screen and (max-width: 1015px) {
+ 
+}
+@media screen and (max-width: 960px) {
+     #burger{
+        display:block;
+    }
+  .btn-menu {
+            visibility:visible;
+        }
+    .btn-menu {
+            top: 30px;
+            right: 30px;
+        }
+    .lang-ru{
+        margin-right:10px;
+    }
+  .menu ul{
+      display:none;
+  }
+  .title{
+    margin-left:50px;
+}
+  .title h1{
+      font-size:40px;
+  }
+  .title h2{
+      font-size:20px;
+  }
+   main h1{
+    font-size:30px;
+}
+   .row{
+    width:80%;
+}
+   .device{
+    width:45%;
+    margin-right:0;
+}
+.device1{
+   
+}
+.device2{
+   float:right;
+}
+.device4{
+  float:right;
+}
+.device6{
+  float:right;
+}
+ .section p{
+      margin:0% 10% 50px 10%;
+}
+   .contacts h1{
+    font-size:38px;
+}
+   .b-popup-content{
+    width:85%;
+}
+   .b-popup-form{
+        width:85%;
+   }
+    .popup-form {
+        width:65%;
+    }
+}
+@media screen and (max-width: 910px) {
+    .form form{
+     width:90%;
+  }
+}
+@media screen and (max-width: 860px) {
+     .title h1{
+      font-size:38px;
+  }
+   
+   .form-text{
+    width:33%;
+}
+.form-tel{
+    width:33%;
+}
+}
+@media screen and (max-width: 800px) {
+.form form{
+    width:100%;
+}
+.form-text{
+    width:80%;
+    float:none;
+    margin-right:0;
+    margin-bottom:30px;
+}
+.form-tel{
+    width:80%;
+    float:none;
+    margin-right:0;
+      margin-bottom:30px;
+}
+.form-submit{
+    width:80%;
+    float:none;
+}
+}
+@media screen and (max-width: 768px) {
+     .row{
+    width:90%;
+}
+     .b-popup-content{
+    width:100%;
+}
+     .b-popup-form{
+         width:100%;
+     }
+     .popup-form {
+      
+    }
+     .popup-img {
+    float:none;
+    width:100%;
+    display:block;
+    margin:0 auto;
+}
+.popup-content h1{
+    font-size:20px;
+    text-align:center;
+    padding-top:20px;
+}
+.popup-input-b{
+    float:none;
+    width:100%;
+}
+.popup-descr{
+    padding-top:0px;
+}
+}
+@media screen and (max-width: 720px) {
+
+}
+@media screen and (max-width: 620px) {  
+   .device{
+    width:98%;
+     float:none;
+}   
+}
+@media screen and (max-width: 540px) {
+   main h1{
+    font-size:28px;
+}
+    .popup-form {
+        width:95%;
+        padding-top:50px;
+    } 
+}
+@media screen and (max-width: 480px) {
+   .title{
+    margin-left:20px;
+}
+     .title h1{
+       font-size:34px;
+   }
+    .title h2 {
+        font-size: 18px;
+    }
+.form h1{
+       font-size:32px;
+   }
+.form form{
+    width:90%;
+}
+.form-text{
+    width:90%;
+    float:none;
+    margin-right:0;
+    margin-bottom:15px;
+     padding:0px 15px 0px 15px;
+}
+.form-tel{
+    width:90%;
+    float:none;
+    margin-right:0;
+      margin-bottom:15px;
+     padding:0px 15px 0px 15px;
+}
+.form-submit{
+    width:80%;
+    float:none;
+}
+ .section p{
+    font-size:18px;
+    margin:0% 5% 0% 5%;
+}
+.contacts-block{
+    width:80%;
+    left:10%;
+}
+.contacts h1{
+    font-size:32px;
+}
+.contacts-block p{
+    font-size:16px;
+}
+.copy{
+    margin-left:20px;
+     font-size:12px;
+}
+.top{
+    margin-right:20px;
+     font-size:12px;
+}
+    
+}
+@media screen and (max-width: 400px) {
+    
+}
+@media screen and (max-width: 375px) {
+     header{
+    height:200px;
+    background:linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(images/4fd06ada8e17946503cfd3b64fbba225.jpg) center center no-repeat;
+    background-size:cover;
+}
+     .title h1{
+      margin:0;
+   }
+}
+@media screen and (max-width: 360px) {
+ 
+  .btn-menu {
+       top: 20px;
+       right: 20px;
+        }
+   .section p{
+    font-weight:normal;
+     padding-bottom:50px;
+}
+    .footer{
+        margin-bottom:0;
+        padding:0;
+    }
+}
+@media screen and (max-width: 320px) {
+    
+     .title h1{
+       font-size:26px;
+   }
+      .title h2{
+       font-size:16px;
+   }
+      .title input{
+       font-size:14px;
+       padding:20px 40px;
+   }
+       .section p{
+    font-size:16px;
+}
+ .form-text{
+    width:85%;
+}
+.form-tel{
+    width:85%;
+}
+.form-submit{
+    width:85%;
+}
+}
